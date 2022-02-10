@@ -1,0 +1,1 @@
+# auto_cisco_asw_cable_diagnostic
